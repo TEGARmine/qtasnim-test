@@ -9,4 +9,14 @@
 
 ## About Project
 
-`git clone`
+`git clone https://github.com/TEGARmine/qtasnim-test.git`
+
+`cp .env.example .env`
+
+`composer install && npm install`
+
+## account tes :
+
+email: `admin@gmail.com`
+
+password: `password`
