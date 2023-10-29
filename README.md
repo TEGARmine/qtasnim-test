@@ -15,6 +15,8 @@
 
 `composer install && npm install`
 
+`php artisan migrate:fresh --seed`
+
 ## account tes :
 
 email: `admin@gmail.com`
